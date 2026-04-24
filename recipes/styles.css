@@ -1,0 +1,23 @@
+body{
+    background-color: lightsteelblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    padding: 20px;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    color: darkred;
+    margin-top: 20px;
+}
+
+h3{
+    color: red;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+ul, ol{
+    margin: 0
+}
